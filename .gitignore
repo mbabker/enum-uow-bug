@@ -1,0 +1,4 @@
+/proxies/
+/vendor/
+/composer.lock
+/db.sqlite
